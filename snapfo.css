@@ -1,0 +1,710 @@
+#big{
+background-color: aliceblue;
+border-bottom-right-radius: 100px;
+margin: 40px;
+display: flex;
+position: relative;
+
+}
+
+
+
+
+
+#start{
+border-bottom-right-radius: 100px;
+display: flex;
+height: 650px;
+width: 100%;
+background-color: rgb(244, 248, 252);
+position: relative;
+margin: 0px;
+padding: 0px;
+}
+
+.aval{
+background-color: #FF00A6;
+color: whitesmoke;
+width: 120px;
+height: 50px;
+padding: 8px;
+border-style: none;
+font-family: fantasy;
+font-size: 22px;
+box-sizing: border-box;
+border-radius: 10px;
+text-align: center;
+position: relative;
+border-color: aliceblue;
+left: 60px;
+top: 40px;
+text-shadow: none;
+display: flex;
+}
+#dovom{
+position: relative;
+font-family: serif;
+font-weight: 700;
+font-size: 1.5rem;
+line-height: 2rem;
+font-size: 15px;
+left: 70px;
+top: 50px;
+margin: 0px;
+color: #3A3D42;
+display: flex;
+}
+
+#piza{
+    position: absolute;
+   max-width: 100%; 
+    height: 558px;
+display: flex;
+margin: 0px;
+padding: 0px;
+top: 90px;
+left: 0px;
+display: flex;
+}
+#header{
+
+    color: #FF00A6;
+    
+    font-family: Fantasy;
+
+    font-size: 40px;
+    
+
+    
+   
+    padding: 0px;
+    margin: 0px;
+    top: 40px;
+  
+   right: 70px;
+  left: 900px;
+    
+    display: flex;
+  position: relative;
+    }
+    #sefaresh{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    width: auto;
+    height:auto ;
+    padding: 0px;
+    margin: 0px;
+   display: flex;
+    color: rgb(58, 61, 66);
+    text-align: initial;
+    position: absolute;
+    right: 50px;
+    top: 200px;
+ 
+   
+    }
+    #sefa{
+        font-family: sans-serif;
+        font-weight: 700;
+        font-size: 1rem;
+        line-height: 2rem; 
+        width: auto;
+        height:auto ;
+        padding: 0px;
+        margin: 0px;
+        display: flex;
+        color: rgb(106, 110, 117);
+        text-align: initial;
+        position: absolute;
+        right: 50px;
+        top: 221px;
+  
+    }
+  #one{
+position: relative;
+left: 505px;
+height: 40px;
+width: 380px;
+border-radius: 15px;
+top: 260px;
+padding: 20px;
+margin: 0px;
+text-align: right;
+border-color: beige;
+border-style: none;
+display: flex;
+vertical-align: baseline;
+  }
+  #search{
+position: relative;
+width: 30px;
+height: 30px;
+top: 264px;
+left: 460px;
+border-style: none;
+background-color:white ;
+  }
+
+  #flex-container{
+    background-color: rgba(219, 203, 206, 0.24);
+
+margin: 20px;
+display: flex;
+position: relative;
+ display: flex;
+ width: 1100px;
+height: 130px;
+bottom: 200px;
+left: 120px;
+margin: 0px;
+padding: 0px;
+border-radius: 20px;
+
+ }
+ #flex-container > div {
+  
+    margin: 20px;
+    padding: 10px;
+    font-size: 10px;
+    position: relative;
+   text-align: center;
+  }
+ #khoshmaze{
+margin: 40px;
+display: flex;
+position: relative;
+ }
+  #khoshmaze2{
+    background-color: rgba(70, 47, 51, 0)24;
+    margin: 20px;
+display: flex;
+position: relative;
+ display: flex;
+ border-radius: 20px;
+ margin: 0px;
+padding: 0px;
+width: 1250px;
+height: 130px;
+bottom: 70px;
+
+  }
+  #khoshmaze2 > div{
+    margin: 8px;
+    padding: 10px;
+    font-size: 40px;
+    position: relative;
+ 
+  }
+  #khoshmaze2 > div> img {
+  border-radius: 20px;
+  border-color: azure;
+  border-style: solid;
+  }
+  #khoshmaze3{
+    background-color: rgba(156, 28, 49, 0)24;
+    margin: 20px;
+display: flex;
+position: relative;
+ display: flex;
+ border-radius: 20px;
+ margin: 0px;
+padding: 0px;
+width: 1250px;
+height: 130px;
+bottom: 70px;
+left: 40px;
+  
+  }
+  #khoshmaze3 > div{
+    margin: 8px;
+    padding: 10px;
+    font-size: 40px;
+    position: relative;
+  }
+  #khoshmaze3 > div> img {
+    border-radius: 20px;
+    border-color: rgb(243, 255, 255);
+    border-style: solid;
+    }
+    #khoshmaze3 > div >div{
+     background-color:white;
+     width: 90px;
+     height: 30px;
+     font-size: 20px;
+     text-align:center;
+     position: relative;
+     border-top-left-radius: 20px;
+     border-bottom-right-radius: 20px;
+     bottom: 31px;
+    left: 95px;
+    padding: 3px;
+    }
+    #khoshmaze2 > div >div{
+      background-color:white;
+      width: 90px;
+      height: 30px;
+      font-size: 20px;
+      text-align:center;
+      position: relative;
+      border-top-left-radius: 20px;
+      border-bottom-right-radius: 20px;
+      bottom: 31px;
+     left: 95px;
+     padding: 3px;
+     }
+     #big2{
+      background-color: aliceblue;
+      border-bottom-right-radius: 100px;
+      margin: 40px;
+      display: flex;
+      position: relative;
+      
+      }
+     #mobayl{
+    background-color: rgb(229, 231, 233);
+    width: 100%;
+    height: 580px;
+    border-bottom-right-radius: 100px;
+    position: relative;
+    
+
+     }
+     #tasvir{
+      position: absolute;
+     max-width: 100%;
+     height: 690px;
+     display: flex;
+     margin: 0px;
+     padding: 0px;
+     bottom: 50px;
+     left: 50px;
+     }
+     #hoho{
+      position: relative;
+      left:800px ;
+      font-size: 50px;
+      display: flex;
+      bottom: -20px;
+     }
+     #toto{
+      position: relative;
+      left:570px ;
+      font-size: 20px;
+      display: flex;
+      bottom: -10px;
+      text-align: right;
+      color: #3A3D42;
+     
+     }
+     #momo{
+      position: relative;
+      left:820px ;
+      font-size: 14px;
+      display: flex;
+      bottom: -50px;
+     
+    display: flex;
+     }
+     #gg{
+       background-color: rgb(255, 255, 255);
+       border-radius: 4px;
+       width: 300px;
+       height: 46px;
+       position: relative;
+       left: 820px;
+      display: flex;
+      top: 60px;
+     }
+     #numbere{
+    border-style: none;
+    border-radius: 4px;
+    text-align: right;
+     }
+     #boto{
+     background-color: #FF00A6;
+     border-radius: 5px;
+     border-style: none;
+     width:  100px;
+     height: 30px;
+     margin: 8px;
+     color: blanchedalmond;
+     }
+     #nemidonam{
+     display: flex;
+     }
+     #nemidonam >div{
+      width:  130px;
+     height: 40px;
+     background-color: black;
+     margin: 10px;
+     border-radius: 5px;
+     position: relative;
+     bottom: 160px;
+     left: 570px;
+     }
+     #big3{
+      background-color: aliceblue;
+      border-radius:50px;
+      margin: 40px;
+      display: flex;
+      position: relative;
+
+      
+      }
+      #kasb{
+        background-color: rgba(248, 248, 255, 0.979);
+        height: 340px;
+        width: 100%;
+        border-radius: 40px;
+      }
+      #homee{
+        position: absolute;
+       
+        display: flex;
+        margin: 0px;
+        padding: 0px;
+        bottom: 100px;
+        left: 50px;
+
+      }
+      #car{
+        position: relative;
+      left: 890px;
+      font-size: 35px;
+      display: flex;
+      bottom: -20px;
+      }
+      #yoyo{
+        position: relative;
+      left: 700px;
+      font-size: 23px;
+      display: flex;
+      bottom: -10px;
+      }
+      #sabtt{
+        background-color: #FF00A6;
+        color: whitesmoke;
+        width: 150px;
+        height: 40px;
+        padding: 8px;
+        border-style: none;
+        font-family: fantasy;
+        font-size: 22px;
+        box-sizing: border-box;
+        border-radius: 5px;
+        text-align: center;
+        position: relative;
+        border-color: aliceblue;
+       left: 1050px;
+       bottom: -30px;
+        text-shadow: none;
+        display: flex;
+      }
+      #iran{
+      font-size: 16px;
+      text-align: right;
+      
+      width: 100%;
+      
+      }
+      #bigiran{
+        margin: 40px;
+      }
+      #shahrha{
+        display: flex;
+    
+      }
+      #shahrha >div{
+        width:  50px;
+        height: 20px;
+        color: #3A3D42;
+        margin: 30px;
+        text-align: right;
+        position: relative;
+       font-size: 10px;
+
+      }
+      #shahrha2{
+        display: flex;
+      }
+      #shahrha2 >div{
+        width:  50px;
+        height: 20px;
+        color: #3A3D42;
+        margin: 30px;
+        text-align: right;
+        position: relative;
+        bottom: 50px;
+        font-size: 10px;
+      }
+      #shahrha3{
+        display: flex;
+    
+      }
+      #shahrha3 >div{
+        width:  50px;
+        height: 20px;
+        color: #3A3D42;
+        margin: 30px;
+        text-align: right;
+        position: relative;
+        bottom: 100px;
+        font-size: 10px;
+      } 
+
+      #shahrha4{
+        display: flex;
+    
+      }
+      #shahrha4 >div{
+        width:  50px;
+        height: 20px;
+        color: #3A3D42;
+        margin: 30px;
+        text-align: right;
+        position: relative;
+        bottom: 150px;
+        font-size: 10px;
+      }
+
+      #shahrha5{
+        display: flex;
+    
+      }
+      #shahrha5 >div{
+        width:  50px;
+        height: 20px;
+        color: #3A3D42;
+        margin: 30px;
+        text-align: right;
+        position: relative;
+        bottom: 200px;
+        font-size: 10px;
+      }
+      #shahrha6{
+        display: flex;
+    
+      }
+      #shahrha6 >div{
+        width:  50px;
+        height: 20px;
+        color: #3A3D42;
+        margin: 30px;
+        text-align: right;
+        position: relative;
+        bottom: 250px;
+        font-size: 10px;
+      }
+
+      #shahrha7{
+        display: flex;
+    
+      }
+      #shahrha7 >div{
+        width:  50px;
+        height: 20px;
+        color: #3A3D42;
+        margin: 30px;
+        text-align: right;
+        position: relative;
+        bottom: 300px;
+        font-size: 10px;
+      }
+      #shahrha8{
+        display: flex;
+    
+      }
+      #shahrha8 >div{
+        width:  50px;
+        height: 20px;
+        color: #3A3D42;
+        margin: 30px;
+        text-align: right;
+        position: relative;
+        bottom: 350px;
+        font-size: 10px;
+      }
+      #shahrha9{
+        display: flex;
+    
+      }
+      #shahrha9 >div{
+        width:  50px;
+        height: 20px;
+        color: #3A3D42;
+        margin: 30px;
+        text-align: right;
+        position: relative;
+        bottom: 400px;
+        font-size: 10px;
+      }
+      #shahrha10{
+        display: flex;
+    
+      }
+      #shahrha10 >div{
+        width:  50px;
+        height: 20px;
+        color: #3A3D42;
+        margin: 30px;
+        text-align: right;
+        position: relative;
+        bottom: 450px;
+        font-size: 10px;
+      }
+      #shahrha11{
+        display: flex;
+    
+      }
+      #shahrha11 >div{
+        width:  50px;
+        height: 20px;
+        color: #3A3D42;
+        margin: 30px;
+        text-align: right;
+        position: relative;
+        bottom: 500px;
+        font-size: 10px;
+      }
+      #shahrha12{
+        display: flex;
+    
+      }
+      #shahrha12 >div{
+        width:  50px;
+        height: 20px;
+        font-size: 10px;
+        margin: 30px;
+        text-align: right;
+        position: relative;
+        color: #3A3D42;
+        bottom: 550px;
+      }
+      #shahrha13{
+        display: flex;
+    
+      }
+      #shahrha13 >div{
+        width:  50px;
+        height: 40px;
+        font-size: 10px;
+        margin: 20px;
+        text-align: right;
+        position: relative;
+        color: #3A3D42;
+        bottom: 600px;
+        left: 690px;
+      }
+      #finish{
+        background-color: rgba(248, 248, 255, 0.979);
+        width: 100%;
+        height: 300px;
+        position: relative;
+        bottom: 600px;
+      }
+      #mark{
+        position: relative;
+       left: 50px;
+       bottom: -60px;
+       max-width: 100%;
+       height: 60px;
+      }
+      #list{
+        position: absolute;
+       list-style-type:none ;
+        text-align: right;
+       top: 10px;
+       right: 900px;
+      
+      }
+      #list >li{
+        margin: 20px;
+       
+      }
+
+      #list2{
+        position: absolute;
+       list-style-type:none ;
+        text-align: right;
+       top: 10px;
+       right: 600px;
+      
+      }
+      #list2 >li{
+        margin: 20px;
+       
+      }
+     #fo{
+      color: #FF00A6;
+    
+      font-family: Fantasy;
+  
+      font-size: 35px;
+      
+  
+      
+     
+      padding: 0px;
+      margin: 0px;
+     bottom: 40px;
+    
+     right: 70px;
+    left: 1150px;
+      
+      display: flex;
+    position: relative;
+     }
+     #ops{
+      position: relative;
+      color: #FF00A6;
+      left: 1020px;
+      bottom: 142px;
+    font-size: 30px;
+     }
+     #wq{
+      color: #3A3D42;
+      position: relative;
+      left: 890px;
+      bottom: 160px;
+     }
+     #gerdi{
+      display: flex;
+      position: relative;
+     }
+     #gerdi >div{
+     width: 40px;
+     height: 40px;
+     background-color: white;
+     margin: 10px;
+     border-radius: 50%;
+     position: relative;
+     bottom: 760px;
+     left: 830px;
+     }
+
+     #dark{
+      width: 70px;
+      height: 22px;
+      background-color: rgb(172, 231, 228);
+      text-align: center;
+      bottom: 690px;
+      position: relative;
+
+     }
+     #on{
+      background-color: rgb(172, 231, 228);
+      color: green;
+    
+     }
+     #off{
+      background-color: rgb(172, 231, 228);
+      color: red;
+     
+     }
+     #hs{
+      filter: invert(1)  hue-rotate();
+      background-color: black;
+     }
+     
